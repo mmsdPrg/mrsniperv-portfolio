@@ -1,5 +1,5 @@
 # MrSniperV Portfolio
-
+https://mrsniperv-portfolio.vercel.app/
 A modern, dark, highly animated personal portfolio website for **MrSniperV** — Backend & Full-Stack Developer.
 
 Built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **React Three Fiber**.
@@ -54,7 +54,7 @@ This creates transparent PNG, monochrome PNG, optimized WebP, mobile WebP, SVG w
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+https://mrsniperv-portfolio.vercel.app/
 
 ### Production build
 
